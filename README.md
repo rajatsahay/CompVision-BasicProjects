@@ -1,5 +1,3 @@
-# Image-Recognition
-Python 3.x program for basic image recognition using Keras (a library built on top of TensorFlow).
+# Small and simple projects related to the basics of Computer Vision
 
-This program uses RestNet50, developed by Microsoft Research. It was convinient as Keras had an inbuilt support in its 'applications'
-sub-module.
+The repository features a few beginner-level projects related to image analysis, image processing and video processing.
